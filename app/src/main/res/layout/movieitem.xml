@@ -21,7 +21,7 @@
         android:layout_marginStart="16dp"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:text="한산: 용의 출현"
+        android:text="한산:용의 출현"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toTopOf="@+id/imageView" />
 
